@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Recipie-App/static/css/main.9a8789a8.css",
+    "main.js": "/Recipie-App/static/js/main.d2cba4ed.js",
+    "static/js/453.a18ce758.chunk.js": "/Recipie-App/static/js/453.a18ce758.chunk.js",
+    "index.html": "/Recipie-App/index.html",
+    "main.9a8789a8.css.map": "/Recipie-App/static/css/main.9a8789a8.css.map",
+    "main.d2cba4ed.js.map": "/Recipie-App/static/js/main.d2cba4ed.js.map",
+    "453.a18ce758.chunk.js.map": "/Recipie-App/static/js/453.a18ce758.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a8789a8.css",
+    "static/js/main.d2cba4ed.js"
+  ]
+}
