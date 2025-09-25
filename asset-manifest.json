@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Recipie-App/static/css/main.ef352bad.css",
-    "main.js": "/Recipie-App/static/js/main.91355124.js",
+    "main.js": "/Recipie-App/static/js/main.22d7ad75.js",
     "static/js/453.a18ce758.chunk.js": "/Recipie-App/static/js/453.a18ce758.chunk.js",
     "index.html": "/Recipie-App/index.html",
     "main.ef352bad.css.map": "/Recipie-App/static/css/main.ef352bad.css.map",
-    "main.91355124.js.map": "/Recipie-App/static/js/main.91355124.js.map",
+    "main.22d7ad75.js.map": "/Recipie-App/static/js/main.22d7ad75.js.map",
     "453.a18ce758.chunk.js.map": "/Recipie-App/static/js/453.a18ce758.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef352bad.css",
-    "static/js/main.91355124.js"
+    "static/js/main.22d7ad75.js"
   ]
 }
